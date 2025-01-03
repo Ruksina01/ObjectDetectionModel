@@ -36,10 +36,10 @@ Below is the performance visualization of the YOLO models for small object detec
 
 Here are the output images showing small object detections using the final YOLO model:
 
-  <img src="Screenshot 2024-11-07 014835.png" alt="YOLO Model Output 1" width="45%" style="display:inline-block; margin-right: 5%;" />
+  <img src="Screenshot 2024-11-07 035514.png" alt="YOLO Model Output 1" width="45%" style="display:inline-block; margin-right: 5%;" />
   <img src="Screenshot 2024-11-07 025701.png" alt="YOLO Model Output 2" width="45%" style="display:inline-block;" />
 
-  <img src="Screenshot 2024-11-07 035425.png" alt="YOLO Model Output 1" width="45%" style="display:inline-block; margin-right: 5%;" />
+  <img src="Screenshot 2024-11-07 035436.png" alt="YOLO Model Output 1" width="45%" style="display:inline-block; margin-right: 5%;" />
   <img src="Screenshot 2024-11-07 014916.png" alt="YOLO Model Output 2" width="45%" style="display:inline-block;" />
 
 These images showcase how the final YOLO model performs in detecting small objects in aerial images.
