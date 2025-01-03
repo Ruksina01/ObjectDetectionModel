@@ -28,7 +28,7 @@ These results highlight the performance of different YOLO versions for small obj
 
 Below is the performance visualization of the YOLO models for small object detection. The graph compares key metrics such as Precision, Recall, and mAP for different YOLO versions.
 
-![Model Performance Graph](https://github.com/yourusername/yourrepository/blob/main/results/performance_graph.png)
+![Model Performance Graph](https://github.com/Ruksina01/ObjectDetectionModel/blob/main/visualization.png)
 
 > **Note:** The graph above illustrates the comparison of YOLO models and their respective performance on the PESMOD dataset. You can see how each model performs across different metrics.
 
